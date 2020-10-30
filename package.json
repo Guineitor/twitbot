@@ -1,0 +1,28 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "small bot for twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guineitor/twitbot.git"
+  },
+  "keywords": [
+    "twit",
+    "bot",
+    "twitter"
+  ],
+  "author": "Guineitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guineitor/twitbot/issues"
+  },
+  "homepage": "https://github.com/Guineitor/twitbot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
+  }
+}
